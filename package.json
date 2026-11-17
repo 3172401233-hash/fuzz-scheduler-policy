@@ -1,0 +1,11 @@
+{
+  "name": "fuzz-scheduler-policy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Coverage-aware fuzzing scheduler: rare-edge energy, anti-starvation, deterministic seeded randomness",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
